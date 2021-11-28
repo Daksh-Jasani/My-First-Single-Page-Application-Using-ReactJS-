@@ -2,7 +2,7 @@
 
 This codes are used when we want to create a new react app.
 
-Open CMD 
+Open CMD in the root folder
 
 -> cd blog
 -> npm run build
