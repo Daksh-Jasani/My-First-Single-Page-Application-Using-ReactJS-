@@ -2,6 +2,15 @@
 
 This codes are used when we want to create a new react app.
 
+As github doesn't allow to upload files or folers more than 25 MB therefore, due to space problem you wil.l also have to download the dependancies.
+
+->  Open CMD in root folder.
+
+-> npm install
+-> npm install react-router-dom@5
+-> npm install axios
+-> npm install --save react-twitter-embed
+
 Open CMD in the root folder
 
 -> cd blog
