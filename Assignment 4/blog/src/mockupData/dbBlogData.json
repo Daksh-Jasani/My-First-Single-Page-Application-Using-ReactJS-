@@ -1,0 +1,27 @@
+[
+	{
+	"id":"1",
+	"title": "Photography",
+	"body": "Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing, and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication. Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing.",
+	"date": "11/25/2021",
+	"imgUrl":"Photograph.jpg",
+    "summary":"Photography is more than a medium for factual communication of ideas. It is a creative art."
+	},
+	{
+	"id":"2",
+	"title": "Gaming",
+	"body": "A gaming computer, also known as a gaming PC, is a specialized personal computer designed for playing video games. Gaming PCs typically differ from mainstream personal computers by using high-performance video cards and high core-count central processing units with raw performance. Gaming PCs are also used for other demanding tasks such as video editing. Many gamers and computer enthusiasts choose to overclock their CPU and GPU in order to gain extra performance. The added power draw needed to overclock either processing unit often requires additional cooling, using upgraded air cooling or water cooling.",
+	"date": "11/25/2021",
+	"imgUrl":"Gaming.jpg",
+    "summary":"Gaming brings people together."
+	},
+	{
+	"id":"3",
+	"title": "Motor Cycle",
+	"body": "A motorcycle, often called a motorbike, bike, or cycle, is a two- or three-wheeled motor vehicle. Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport, and off-road riding. Motorcycling is riding a motorcycle and being involved in other related social activity such as joining a motorcycle club and attending motorcycle rallies. The 1885 Daimler Reitwagen made by Gottlieb Daimler and Wilhelm Maybach in Germany was the first internal combustion, petroleum-fueled motorcycle. In 1894, Hildebrand & Wolfmüller became the first series production motorcycle. In 2014, the three top motorcycle producers globally by volume were Honda, Yamaha, and Hero MotoCorp. In developing countries, motorcycles are considered utilitarian due to lower prices and greater fuel economy. Of all the motorcycles in the world, 58% are in the Asia-Pacific and Southern and Eastern Asia regions, excluding car-centric Japan.",
+	"date": "11/25/2121",
+	"imgUrl":"motorcycle.jpg",
+    "summary":"Riding a motorcycle is the best therapy.."
+	}
+	
+]
